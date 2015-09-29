@@ -1,6 +1,6 @@
 {
   "name": "enb-require-or-eval",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Module, which assists in supporting transitional (from 'eval' to 'require') BEM formats.",
   "keywords": [
     "require",
@@ -42,8 +42,8 @@
   },
   "dependencies": {
     "clear-require": "^1.0.1",
-    "enb-async-fs": "^1.0.0",
-    "enb-async-require": "^1.0.0"
+    "enb-async-require": "^1.0.0",
+    "vow-fs": "^0.3.4"
   },
   "devDependencies": {
     "chai": "^3.3.0",
