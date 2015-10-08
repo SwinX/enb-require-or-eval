@@ -1,6 +1,6 @@
 {
   "name": "enb-require-or-eval",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Module, which assists in supporting transitional (from 'eval' to 'require') BEM formats.",
   "keywords": [
     "require",
