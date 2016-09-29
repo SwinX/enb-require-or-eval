@@ -41,8 +41,7 @@
     "coveralls": "npm i coveralls && istanbul cover _mocha -- -R dot --recursive test/lib --report lcovonly && cat ./coverage/lcov.info | coveralls"
   },
   "dependencies": {
-    "clear-require": "^1.0.1",
-    "enb-async-require": "^1.0.0",
+    "node-eval": "^1.0.3",
     "vow-fs": "^0.3.4"
   },
   "devDependencies": {
